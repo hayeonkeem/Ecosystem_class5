@@ -1,0 +1,5 @@
+{
+  "name": "Ecosystem Balance Game",
+  "description": "An interactive game where users adjust the populations of producers, consumers, and decomposers to achieve a balanced ecosystem. Learn about ecological pyramids in a fun, hands-on way.",
+  "requestFramePermissions": []
+}
